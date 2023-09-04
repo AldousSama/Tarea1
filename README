@@ -1,1 +1,3 @@
-Documentación de RNA 
+Documentación de RNA, hice algunas modificaciones en el codigo aparte de documentar ciertas partes, algunas ya estaban previamente documentadas en ingles por lo que decidí
+no cambiarlo, pues es bastante claro. Al final para tener una base más visual acerca del entrenamiento implementé un codigo el cual me da algunos ejemplos de los datos con los que se entrenó
+ademas de darme el valio predicho por la RNA respecto al valor real, cada vez que se ejecuta el codigo me da nuevos datos e imagenes pues se hace de manera aleatoria.
